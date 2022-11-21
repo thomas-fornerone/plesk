@@ -1,0 +1,62 @@
+.cv-container{
+    width: 1000px;
+    margin: 100px auto;
+  }
+
+h1{
+    text-align:center;
+    background-color:rgb(203, 65, 40);
+    font-size: 40px;
+    font-family: Verdana;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.textleft{
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.textright{
+    font-size: 15px;
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+
+.hleft{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-bottom: 1px;
+    margin-top: 20px;
+    font-family: Verdana;
+    text-shadow: 2px 2px 4px #434343;
+}
+
+.hright{
+    font-size: 25px;
+    margin-right: 20px;
+    margin-bottom: 1px;
+    margin-top: 20px;
+    font-family: Verdana;
+    text-shadow: 2px 2px 4px #434343;
+}
+
+.lineleft{
+    background-color:rgb(225, 72, 45);
+    font-size: 5px;
+    margin-left: 20px;
+}
+
+.lineright{
+    background-color:rgb(225, 72, 45);
+    font-size: 5px;
+    margin-right: 20px;
+}
+
